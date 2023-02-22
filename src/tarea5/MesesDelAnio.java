@@ -5,9 +5,7 @@ import java.util.Scanner;
 public class MesesDelAnio {
 
 	public static void main(String[] args) {
-		
-		int numeroMes = 0;
-		
+
 		//Le pido al usuario que ingrese un mes del año
 		Scanner scanner = new Scanner(System.in);
 		
