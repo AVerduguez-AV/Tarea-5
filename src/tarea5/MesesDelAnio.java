@@ -4,20 +4,6 @@ import java.util.Scanner;
 
 public class MesesDelAnio {
 
-	private static final String Enero = null;
-	private static final String febrero = null;
-	private static final String enero = null;
-	private static final String diciembre = null;
-	private static final String noviembre = null;
-	private static final String octubre = null;
-	private static final String septiembre = null;
-	private static final String julio = null;
-	private static final String agosto = null;
-	private static final String junio = null;
-	private static final String abril = null;
-	private static final String mayo = null;
-	private static final String marzo = null;
-
 	public static void main(String[] args) {
 		
 		int numeroMes = 0;
